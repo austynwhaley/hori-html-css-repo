@@ -15,7 +15,7 @@
 
 ## Description
 
-The code has been refactored to fit an nice sematic standard, and the css has been been cleaned up and corrected pathways to images and selectors. I also add a nice hover effect on the links in the nav bar to give a responsive site.
+The code has been refactored to fit an nice sematic standard, and the css has been been cleaned up and corrected pathways to images and selectors.I have added commetns to sections for a small description of the code codes function. I also added a nice hover effect on the links in the nav bar to give a fun responsive feeling for the site.
 
 [Back To The Top](#read-me-template)
 
