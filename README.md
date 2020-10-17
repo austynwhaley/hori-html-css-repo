@@ -17,10 +17,6 @@
 
 The code has been refactored to fit an nice sematic standard, and the css has been been cleaned up and corrected pathways to images and selectors.I have added commetns to sections for a small description of the code codes function. I also added a nice hover effect on the links in the nav bar to give a fun responsive feeling for the site.
 
-[Back To The Top](#read-me-template)
-
-
-
 ---
 
 ## License
@@ -47,6 +43,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me)
-
 ---
+[Back To The Top](#Horiseon-Social-Solutions)
